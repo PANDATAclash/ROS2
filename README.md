@@ -1,1 +1,3 @@
-# ROS2
+This repository contains our SmartCAR ROS 2 project developed for the Robot Architecture final assignment. The goal of the project is to build a complete mobile-robot system in ROS 2 that can be simulated in Gazebo and used as a foundation for real hardware work. The project covers the core elements of a ROS 2 robot architecture: robot description (URDF/Xacro) and TF tree, simulation integration, sensor topics (e.g., LiDAR and IMU), vehicle status/command interfaces, wheel-odometry and state estimation (localization), and an autonomous navigation setup using the ROS 2 navigation stack (Nav2).
+
+This project was developed in collaboration with my colleague Henryk Nowacki.
