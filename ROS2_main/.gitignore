@@ -1,0 +1,20 @@
+# colcon / ROS2
+build/
+install/
+log/
+.colcon*
+**/__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.swo
+build/
+install/
+log/
+.vscode/
+.idea/
+**/__pycache__/
+*.pyc
+*.bag
+*.zip
+*.tar.gz
